@@ -179,14 +179,25 @@ spacebar scrolls down the text and q returns you to the prompt.
 (Some characteristics that may help your description might be the length of the file, whether or not you'd like to read the whole thing... or just the beginning or end, etc.)
 ----------
 
+less - used when you want to read bit by bit instead of having to scroll up 
+more - similar to less
+cat - shows the entirety of the file
+tail - shows the end of the file 
+head - shows the beginning of the file
 
 
 ==========
 21.  How many words are in pg1232.txt?  What command did you use to determine the word count?
 ----------
 
+52639
+wc pg1232.txt
+
 
 
 ==========
 22.  How many lines are in pg1232.txt?  What command did you use to determine the line count?
 ----------
+
+5063
+wc pg1232.txt
