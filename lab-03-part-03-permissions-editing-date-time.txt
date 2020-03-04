@@ -138,3 +138,5 @@ What commands did you use to do this?
 
 What commands did you use to do this?  Show the output.
 ----------
+cd backup/
+ls
